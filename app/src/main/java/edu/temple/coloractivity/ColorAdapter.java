@@ -41,7 +41,6 @@ public class ColorAdapter extends BaseAdapter
     {
         TextView textView = new TextView(context);
         textView.setText(colors[position]);
-
         return textView;
     }
 
