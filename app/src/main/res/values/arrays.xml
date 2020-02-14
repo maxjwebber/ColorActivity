@@ -1,0 +1,16 @@
+<resources>
+    <string-array name="colors">
+        <item>"Select a color."</item>
+        <item>"Fuchsia"</item>
+        <item>"Red"</item>
+        <item>"Yellow"</item>
+        <item>"Olive"</item>
+        <item>"Green"</item>
+        <item>"Cyan"</item>
+        <item>"Blue"</item>
+        <item>"Purple"</item>
+        <item>"Magenta"</item>
+        <item>"DarkGray"</item>
+        <item>"Black"</item>
+    </string-array>
+</resources>
